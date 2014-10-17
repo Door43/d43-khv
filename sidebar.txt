@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khv:home|Door43 (khv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khv|d43-khv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khv/archive/master.zip|d43-khv.zip]]
+
+**Recent Changes**
+{{changes>ns = khv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khv|Ethnologue data]]
+
